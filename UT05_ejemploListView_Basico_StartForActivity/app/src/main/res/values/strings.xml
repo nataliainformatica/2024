@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ejemploListView</string>
+    <string name="agencia">Agencia de contactos AMORE MIO</string>
+    <string name="menuitem1">Eliminar</string>
+    <string name="menuitem2">Agregar</string>
+    <string name="Nombre">Nombre </string>
+    <string name="Intereses">Intereses </string>
+    <string name="TituloActividad2">ENTRADA DE DATOS </string>
+    <string name="Salvar">Salvar datos </string>
+
+</resources>
