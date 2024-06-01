@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">appRepaso</string>
+    <string name="nombre">Name</string>
+    <string name="apellido">Surname</string>
+    <string name="Apellido">Surname</string>
+    <string name="edad">Age</string>
+    <string name="telefono">Phone number</string>
+    <string name="password">Password</string>
+    <string name="registro">Sign up</string>
+</resources>
