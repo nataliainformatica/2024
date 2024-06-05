@@ -1,9 +1,4 @@
 [
-    {
-        "codigoestacion": "7043",
-        "denominacion": "PEDRO SARMIENTO GAMBOA-LOPE DE RUEDA",
-        "direccion": "Calle de Pedro Sarmiento de Gamboa N 12",
-        "numerolineausuario": "3",
-        "numeroorden": "3"
+    {"codigoestacion": "7043","denominacion": "PEDRO SARMIENTO GAMBOA-LOPE DE RUEDA", "direccion": "Calle de Pedro Sarmiento de Gamboa N 12","numerolineausuario": "3","numeroorden": "3"
     }    
 ]
