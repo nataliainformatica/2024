@@ -5,48 +5,5 @@
         "direccion": "Calle de Pedro Sarmiento de Gamboa N 12",
         "numerolineausuario": "3",
         "numeroorden": "3"
-    },
-    {
-        "codigoestacion": "12244",
-        "denominacion": "ISABEL DE GUZMÁN-FERRA",
-        "direccion": "Calle   Ferraz N 7",
-        "numerolineausuario": "10",
-        "numeroorden": "5"
-    },
-    {
-        "codigoestacion": "12246",
-        "denominacion": "AV.ALCARRIA-BELVÍS DEL JARAM",
-        "direccion": "Avda de la Alcarria N 10",
-        "numerolineausuario": "10",
-        "numeroorden": "6"
-    },
-    {
-        "codigoestacion": "9454",
-        "denominacion": "VÍA COMPLUTENSE-PZA.ATILANO CASAD",
-        "direccion": "Plaza   Atilano Casado N 1",
-        "numerolineausuario": "10",
-        "numeroorden": "2"
-    },
-    {
-        "codigoestacion": "20564",
-        "denominacion": "SAN JULIÁN-RONDA PESCADER",
-        "direccion": "Calle   San Julián N ",
-        "numerolineausuario": "6",
-        "numeroorden": "15"
-    },
-    {
-        "codigoestacion": "12787",
-        "denominacion": "VÍA COMPLUTENSE-AV.CABALLERÍA ESPAÑ",
-        "direccion": "Calle   Vía Complutense N 6",
-        "numerolineausuario": "11",
-        "numeroorden": "12"
-    },
-    {
-        "codigoestacion": "12785",
-        "denominacion": "VÍA COMPLUTENSE-TU",
-        "direccion": "Calle   Vía Complutense N 7",
-        "numerolineausuario": "11",
-        "numeroorden": "13"
-    }
-    
+    }    
 ]
